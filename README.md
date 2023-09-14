@@ -1,2 +1,18 @@
-# cic0007_icc_noturno
-Códigos-fontes desenvolvidos durante a disciplina "CIC0007 - Introdução à Ciência da Computação" do Departamento de Ciência da Computação da Universidade de Brasília.
+# CIC0007 - Introdução à Ciência da Computação
+
+Códigos-fontes e material didático gerados na disciplina "CIC0007 - Introdução à Ciência da Computação", Turmas 01, 04, 05 e 10, do semestre 2023/2 do Departamento de Ciência da Computação da Universidade de Brasília.
+
+## Autor
+
+Prof. Vinícius R. P. Borges
+
+## Conteúdo Programático (Lição)
+
+  
+2. Estruturas Condicionais
+
+   2.1. [Highlights de Estruturas Condicionais](condicionais/highlights.py)
+
+   2.2. [Solução Par ou Ímpar](condicionais/par_impar.py)
+
+   2.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
