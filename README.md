@@ -6,7 +6,7 @@ Códigos-fontes e material didático gerados na disciplina "CIC0007 - Introduç�
 
 Prof. Vinícius R. P. Borges
 
-## Conteúdo Programático (Lição)
+## Conteúdo Programático (Lições)
 
   
 2. Estruturas Condicionais
