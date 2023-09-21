@@ -15,6 +15,6 @@ Prof. Vinícius R. P. Borges
 
    2.2. [Solução Par ou Ímpar](condicionais/par_impar.py)
 
-   2.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução If-Else](condicionais/beecrowd_1041.py)] [[Solução Elif](condicionais/beecrowd_1041_2.py)]
+   2.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução If-Else](condicionais/beecrowd1041.py)] [[Solução Elif](condicionais/beecrowd1041_2.py)]
 
-   2.4. [Beecrowd 1051 - Imposto de Renda](https://www.beecrowd.com.br/judge/en/problems/view/1051) [[Solução](condicionais/beecrowd_1051.py)]
+   2.4. [Beecrowd 1051 - Imposto de Renda](https://www.beecrowd.com.br/judge/en/problems/view/1051) [[Solução](condicionais/beecrowd1051.py)]
