@@ -11,7 +11,7 @@ Prof. Vinícius R. P. Borges
   
 2. Estruturas Condicionais
 
-   2.1. [Highlights de Estruturas Condicionais](condicionais/highlights.ipynb)
+   2.1. [Notas de Aula](condicionais/highlights.ipynb)
 
    2.2. [Solução Par ou Ímpar](condicionais/par_impar.py)
 
@@ -22,7 +22,7 @@ Prof. Vinícius R. P. Borges
 
 3. Estruturas de Repetição
 
-   3.1. [Notas de aula](iteracao/notas_aula_iteracao.ipynb)
+   3.1. [Notas de Aula](iteracao/notas_aula_iteracao.ipynb)
    
    3.2. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
    
